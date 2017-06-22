@@ -24,6 +24,24 @@ figure {
 }
 
 .film {
-  width: 50%;
-  margin: 40px auto;
+  clear: both;
+  width: 677px;
+  /*margin: 40px auto;*/
+  border: 1px solid grey;
+  padding: 30px;
+  overflow: hidden;
+}
+
+.film-poster {
+  width: 150px;
+  float: left;
+}
+
+.film-details {
+  /* clear: both; */
+  /* margin: 20px; */
+  /* padding: 20px; */
+  position: relative;
+  left: 20px;
+  bottom: 25px;
 }
