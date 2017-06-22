@@ -59,7 +59,7 @@ body {
 
 .yellow {
   background-color: yellow;
-  position: absolute;
+  position: fixed;
   width: 100%;
   top: 400px;
 }
